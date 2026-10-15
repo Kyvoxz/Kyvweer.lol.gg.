@@ -1,4 +1,4 @@
-local source = game:HttpGet("https://github.com/Kyvoxz/Kyvweer.lol.gg./edit/main/Kyvweer.gg_with_AvatarSpoofer.lua")
+local source = game:HttpGet("https://raw.githubusercontent.com/Kyvoxz/Kyvweer.lol.gg./main/Kyvweer.gg_Optimized.lua")
 local fn = loadstring(source)
 if fn then fn() end
 
